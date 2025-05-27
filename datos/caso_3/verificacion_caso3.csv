@@ -1,0 +1,4 @@
+VehicleId,VehicleType,InitLoad,RouteSequence,Clients,DemandSatisfied,ArrivalTimes,Resup,ResupAmounts,Distance,Time,Cost
+TRK001,Truck,200.0,CD - COM16 - COM01 - COM10 - COM17 - COM15 - COM06 - COM12 - CD - COM13 - COM05 - COM14 - COM04 - COM08 - COM03 - COM11 - COM09 - CD,15,34.0 - 25.0 - 9.0 - 32.0 - 30.0 - 4.0 - 24.0 - 12.0 - 13.0 - 15.0 - 22.0 - 10.0 - 18.0 - 10.0 - 9.0,08:00 - 08:10 - 08:20 - 08:30 - 08:40 - 08:50 - 09:00 - 09:10 - 09:20 - 09:30 - 09:40 - 09:50 - 10:00 - 10:10 - 10:20,1,200.0,37.8,180,21.5
+DRN002,Drone,0,,0,,,0,0,0.0,0,0
+DRN003,Drone,25.0,CD - COM02 - COM07 - CD,2,9.0 - 5.0,08:00 - 08:10,0,0,4.6,40,1.1
