@@ -1,4 +1,4 @@
-VehicleId,VehicleType,InitLoad,RouteSequence,Clients,DemandSatisfied,ArrivalTimes,Resup,ResupAmounts,Distance,Time,Cost
-1,1,149.0,804.0,0-8-11-3-4-12-1-5-14-13-0,9,0,0,0,0,24:00-08:28-08:30-10:45-13:05-13:10-13:50-14:50-15:00-15:10-24:00,0
-2,2,18.0,480.0,0-7-6-10-0,3,0,0,0,0,24:00-09:11-09:30-14:30-24:00,0
-3,2,18.0,480.0,0-2-9-0,2,0,0,0,0,24:00-13:30-14:48-24:00,0
+VehicleId,VehicleType,InitialLoad,RouteSequence,ClientsServed,DemandSatisfied,ArrivalTimes,TotalDistance,TotalTime,Cost
+TRK001,Truck,149.0,CD-COM08-COM11-COM03-COM04-COM12-COM01-COM05-COM14-COM13-CD,9,149.0,08:28-08:30-10:45-13:05-13:10-13:50-14:50-15:00-15:10,29.1,241.35,16.59
+DRN002,Drone,18.0,CD-COM07-COM06-COM10-CD,3,18.0,09:11-09:30-14:30,10.92,199.0,2.54
+DRN003,Drone,18.0,CD-COM02-COM09-CD,2,18.0,13:30-14:48,5.1,78.0,1.19
